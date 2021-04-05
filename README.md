@@ -1,5 +1,7 @@
 # peer_to_peer_connect
 
+**This Project has won the 2nd Prize at the App develoment Hackathon event in Technical Fest of IIT Hyderabad**
+
 A new Flutter application.
 
 **About Apks**
